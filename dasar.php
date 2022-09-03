@@ -10,7 +10,7 @@
       
       // Tipe data (Integer, Float, String)
       // (Boolean, Array)
-      $namalengkap = "Eryan Gusman 90"; // String
+      $namalengkap = "Eryan Gusman"; // String
       $umur = 15; // Integer
       $nilai = 76.56; // Float
       $jomblo = TRUE; // Boolean (TRUE/FALSE)
