@@ -3,27 +3,27 @@
       // $1nama; Contoh Salah (Karena diawali angka)
       // $#nama; Contoh salah (Ada simbol ditengah)
       // nama; Contoh salah (Tidak ada simbol $)
-      $nama = "Rizki";
+      $nama = "Eryan";
       $usia = 16;
       echo "Nama saya $nama <br>";
       echo "Usia saya $usia tahun <br>";
       
       // Tipe data (Integer, Float, String)
       // (Boolean, Array)
-      $namalengkap = "Rizki Giant 90"; // String
+      $namalengkap = "Eryan Gusman 90"; // String
       $umur = 15; // Integer
       $nilai = 76.56; // Float
       $jomblo = TRUE; // Boolean (TRUE/FALSE)
       // Array String
-      $namarpl1 = array("Alya", "Dwi", "Eben");
+      $namarpl2 = array("Fahmi", "Dian", "Indra");
       
       echo "Nama Lengkap : $namalengkap <br>";
       echo "Umur : $umur <br>";
       echo "Nilai : $nilai <br>";
       echo "Jomblo : $jomblo <br>";
       echo "<hr>";
-      echo "Array 0 : $namarpl1[0] <br>"; // Alya
-      echo "Array 2 : $namarpl1[2] <br>"; // Eben
+      echo "Array 0 : $namarpl2[0] <br>"; // Fahmi
+      echo "Array 2 : $namarpl2[2] <br>"; // Indra
       echo "<hr>";
       
       // Aritmatika(+ - / * %)
