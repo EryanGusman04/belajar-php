@@ -2,7 +2,7 @@
 
     //variable
     echo"<hr>";
-    $nama = "Egi,Eryan,Rizki";
+    $nama = "Eryan Gusman";
     $kelas = "XI RPL 2";
     $quiz = 1;
 
