@@ -9,10 +9,10 @@ CREATE TABLE `mahasiswa` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 INSERT INTO `mahasiswa` (`id`, `nim`, `nama`, `alamat`, `fakultas`) VALUES
-(4, '20200003', 'Tri Untoro', 'Semarang Tengah', 'soshum'),
-(5, '20200004', 'Ahmad', 'Yogyakarta', 'saintek'),
-(6, '20200005', 'Doni', 'Jakarta', 'soshum'),
-(7, '12345678', 'Fahmi Maulana Fadila', 'Subang', 'saintek');
+(4, '12173773', 'Agus', 'Bandung', 'saintek'),
+(5, '121737(3', 'Egi Subastian', 'Subang', 'soshum'),
+(6, '12163537', 'Rizki Ramdani', 'Subang', 'soshum'),
+(7, '12134597', 'Adnan Maulana', 'Subang', 'saintek');
 
 ALTER TABLE `mahasiswa`
   ADD PRIMARY KEY (`id`);
