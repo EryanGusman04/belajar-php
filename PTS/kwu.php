@@ -29,7 +29,7 @@
                               <a href='kwu-edit.php?kodebarang=".$row["kodebarang"]."'>Edit</a>
                               &nbsp;-&nbsp;
                               <a href='kwu-hapus.php?kodebarang=".$row["kodebarang"]."' 
-                              onclick='return confirm(\"Yakin Dek ?\");'>Hapus</a>
+                              onclick='return confirm(\"Apakah Yakin ?\");'>Hapus</a>
                         </td>
                   </tr>
             ";
