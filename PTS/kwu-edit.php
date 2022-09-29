@@ -16,19 +16,19 @@
       <input value="<?php echo $row["tanggal"]; ?>" type="date" name="tanggal" /><br>
 
       <label for="pembeli">Pembeli :</label><br>
-      <input value="<?php echo $row["pembeli"]; ?>" type="text" name="pembeli" placeholder="Ex. Firdaus" /><br>
+      <input value="<?php echo $row["pembeli"]; ?>" type="text" name="pembeli" placeholder="Ex. Eryan" /><br>
 
       <label for="namabarang">Nama Barang :</label><br>
-      <input value="<?php echo $row["namabarang"]; ?>" type="text" name="namabarang" placeholder="Ex. Aqua" /><br>
+      <input value="<?php echo $row["namabarang"]; ?>" type="text" name="namabarang" placeholder="Ex. Ice cream" /><br>
       
       <label for="qty">Qty :</label><br>
-      <input value="<?php echo $row["qty"]; ?>" type="number" name="qty" placeholder="Ex. 1" /><br>
+      <input value="<?php echo $row["qty"]; ?>" type="number" name="qty" placeholder="Ex. 5" /><br>
 
       <label for="hargabeli">Harga Beli :</label><br>
-      <input value="<?php echo $row["hargabeli"]; ?>" type="number" name="hargabeli" placeholder="Ex. 12000" /><br>
+      <input value="<?php echo $row["hargabeli"]; ?>" type="number" name="hargabeli" placeholder="Ex. 5000" /><br>
 
       <label for="hargajual">Harga Jual :</label><br>
-      <input value="<?php echo $row["hargajual"]; ?>" type="number" name="hargajual" placeholder="Ex. 15000" /><br>
+      <input value="<?php echo $row["hargajual"]; ?>" type="number" name="hargajual" placeholder="Ex. 6000" /><br>
       <br>
 
       <input type="submit" name="edit" value="Edit Data" />
