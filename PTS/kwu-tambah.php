@@ -1,25 +1,25 @@
 <h1>Tambah Data</h1>
 <form action="kwu-tambah.php" method="POST">
       <label for="kodebarang">Kode Barang :</label><br>
-      <input type="number" name="kodebarang" placeholder="Ex. 1200310211" /><br>
+      <input type="number" name="kodebarang" placeholder="Ex. 728299" /><br>
 
       <label for="tanggal">Tanggal :</label><br>
       <input type="date" name="tanggal" /><br>
 
       <label for="pembeli">Pembeli :</label><br>
-      <input type="text" name="pembeli" placeholder="Ex. Firdaus" /><br>
+      <input type="text" name="pembeli" placeholder="Ex. Eryan" /><br>
 
       <label for="namabarang">Nama Barang :</label><br>
-      <input type="text" name="namabarang" placeholder="Ex. Aqua" /><br>
+      <input type="text" name="namabarang" placeholder="Ex. Ice cream" /><br>
       
       <label for="qty">Qty :</label><br>
-      <input type="number" name="qty" placeholder="Ex. 1" /><br>
+      <input type="number" name="qty" placeholder="Ex. 5" /><br>
 
       <label for="hargabeli">Harga Beli :</label><br>
-      <input type="number" name="hargabeli" placeholder="Ex. 12000" /><br>
+      <input type="number" name="hargabeli" placeholder="Ex. 5000" /><br>
 
       <label for="hargajual">Harga Jual :</label><br>
-      <input type="number" name="hargajual" placeholder="Ex. 15000" /><br>
+      <input type="number" name="hargajual" placeholder="Ex. 6000" /><br>
       <br>
 
       <input type="submit" name="simpan" value="Simpan Data" />
